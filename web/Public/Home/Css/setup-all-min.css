@@ -1,0 +1,456 @@
+
+.setup-site {
+    margin: 0 0 30px 110px;
+    width: 560px;
+}
+.setup-site .error-tip {
+    color: red;
+}
+.register-top {
+    display: block;
+}
+.register-top {
+    color: #333;
+    font-size: 18px;
+    margin: 10px 0 0;
+    width: 420px;
+}
+.register-top .sex {
+    background-color: #b5dbdc;
+    border: 0 none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    height: 38px;
+    line-height: 38px;
+    margin-right: 15px;
+    padding-left: 25px;
+    width: 70px;
+}
+.register-top .select {
+    background-color: #00b9bd !important;
+}
+.register-top input {
+    display: block;
+    float: left;
+}
+.register-top .birthday-yy, .register-top .birthday-mm, .register-top .birthday-dd {
+    border: 1px solid #ccc;
+    color: #333;
+    font-size: 18px;
+    height: 38px;
+    line-height: 38px;
+    margin: 5px 0 0;
+    padding: 5px;
+}
+.register-top .birthday-yy {
+    width: 145px;
+}
+.register-top .birthday-mm, .register-top .birthday-dd {
+    width: 80px;
+}
+.register-top .btn-girl {
+    background: #aed2d9 url("http://a.xnimg.cn/smallsite/images/sex.png") no-repeat scroll 10px -27px;
+}
+.register-top .btn-boy {
+    background: #aed2d9 url("http://a.xnimg.cn/smallsite/images/sex.png") no-repeat scroll 10px 6px;
+}
+.register-top .initial-head {
+    display: none;
+}
+.register-top .initial-head img {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #bfd5e0;
+    float: left;
+    height: 56px;
+    margin-right: 10px;
+    padding: 2px;
+    width: 56px;
+}
+.register-top .choose {
+    background: #aed2d9 none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    height: 40px;
+    line-height: 40px;
+    width: 142px;
+}
+.register-top .choose {
+    background: #aed2d9 none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    height: 40px;
+    line-height: 40px;
+    width: 142px;
+}
+.register-top .headUpload {
+    display: inline;
+    margin: 7px 0 0 15px;
+    visibility: hidden;
+}
+.register-top .headUpload img {
+    margin-bottom: 8px;
+}
+.register-top label {
+    display: inline-block;
+    height: 26px;
+    line-height: 26px;
+    margin: 20px 0 3px;
+    width: 350px;
+}
+.select-photo {
+    height: 125px;
+}
+.register-top .select-mail input {
+    float: left;
+    margin-top: 6px;
+}
+.register-top .select-mail {
+    display: block;
+    margin-top: 10px;
+}
+.register-top .select-mail label {
+    float: left;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 24px;
+    margin: 0 0 0 3px;
+    width: 100px;
+}
+.register-top #namesetting {
+    position: relative;
+}
+.register-top .namebox {
+    border: 1px solid #cccccc;
+    font-size: 18px;
+    height: 43px;
+    width: 146px;
+}
+.register-top #focustip {
+    clear: both;
+    color: #000;
+    display: block;
+    font-size: 14px;
+    height: 50px;
+    left: 290px;
+    line-height: 50px;
+    position: absolute;
+    top: 49px;
+    width: 287px;
+}
+.register-top .judeje {
+    background: rgba(0, 0, 0, 0) url("http://a.xnimg.cn/smallsite/images/home-new/register/judej.png") no-repeat scroll 0 0;
+    display: none;
+    height: 47px;
+    position: absolute;
+    right: 225px;
+    top: 49px;
+    width: 47px;
+}
+.register-top .judeje-select {
+    background: rgba(0, 0, 0, 0) url("http://a.xnimg.cn/smallsite/images/home-new/register/judej.png") no-repeat scroll 0 bottom;
+    height: 47px;
+    position: absolute;
+    right: 225px;
+    top: 49px;
+    width: 47px;
+}
+.register-top .email-judej {
+    clear: both;
+    color: #e83928;
+    display: block;
+    font-size: 14px;
+    height: 50px;
+    left: 300px;
+    line-height: 50px;
+    position: absolute;
+    top: 49px;
+    visibility: hidden;
+    width: 253px;
+}
+.select-box {
+    margin-top: 20px;
+    width: 100%;
+}
+.set-up-tit {
+    background-color: #e9efef;
+    color: #5f7894;
+    font-weight: bold;
+    height: 35px;
+    line-height: 35px;
+    margin-top: 30px;
+    padding: 0 10px;
+    width: 560px;
+}
+.set-up-tit a {
+    color: #888;
+    display: block;
+    text-decoration: none;
+    width: 560px;
+}
+.register-in {
+    display: none;
+}
+.register-in form {
+    margin: 10px 0 0 10px;
+}
+.register-in label {
+    color: #333;
+    display: block;
+    float: left;
+    height: 24px;
+    line-height: 24px;
+    margin: 10px 0 0;
+    width: 100%;
+}
+.register-in .write-in {
+    border: 1px solid #ccc;
+    float: left;
+    height: 26px;
+    margin: 5px 10px 5px 0;
+    width: 325px;
+}
+.judej {
+    display: none;
+    float: left;
+    margin-top: 10px;
+    width: 27px;
+}
+.sync-set ul {
+    margin: 5px 0 0 10px;
+    padding-top: 5px;
+}
+#sync-set-item {
+    display: none;
+}
+.sync-set li {
+    color: #5f7894;
+    font-size: 14px;
+    height: 32px;
+    line-height: 32px;
+    margin: 15px 0;
+    position: relative;
+    width: 570px;
+}
+.sync-set li img {
+    height: 32px;
+    margin-right: 10px;
+    width: 32px;
+}
+.sync-set li span {
+    position: absolute;
+}
+.sync-set li a {
+    background-color: #00b9bd;
+    color: #fff;
+    height: 32px;
+    padding: 0 15px;
+    position: absolute;
+    right: 5px;
+    text-decoration: none;
+    top: 3px;
+}
+.sync-set .sina-icon {
+    background: transparent url("http://a.xnimg.cn/smallsite/images/sina-tit-new.png") no-repeat scroll 0 -38px;
+    float: left;
+    height: 32px;
+    margin-right: 10px;
+    width: 32px;
+}
+.sync-set .doban-icon {
+    background: transparent url("http://a.xnimg.cn/smallsite/images/douban-tit-new.png") no-repeat scroll 0 -38px;
+    float: left;
+    height: 32px;
+    margin-right: 10px;
+    width: 32px;
+}
+.sync-set .qqweibo-icon {
+    background: transparent url("http://a.xnimg.cn/smallsite/images/qqweibo-tit-new.png") no-repeat scroll 0 -38px;
+    float: left;
+    height: 32px;
+    margin-right: 10px;
+    width: 32px;
+}
+.sync-set .renren-icon {
+    background: transparent url("http://a.xnimg.cn/smallsite/images/renren-tit-new.png") no-repeat scroll 0 -38px;
+    float: left;
+    height: 32px;
+    margin-right: 10px;
+    width: 32px;
+}
+.sync-set .neweibo-icon {
+    background: transparent url("http://a.xnimg.cn/smallsite/images/neweibo-tit-new.png") no-repeat scroll 0 -38px;
+    float: left;
+    height: 32px;
+    margin-right: 10px;
+    width: 32px;
+}
+.sync-set li.select .sina-icon, .sync-set li.select .doban-icon, .sync-set li.select .qqweibo-icon, .sync-set li.select .renren-icon, .sync-set li.select .neweibo-icon {
+    background-position: 0 0;
+}
+.sync-set li.select {
+    color: #888;
+}
+.sync-set li.select a {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    color: #888;
+}
+.plus {
+    background: rgba(0, 0, 0, 0) url("http://a.xnimg.cn/smallsite/images/symbol.png") no-repeat scroll 538px 6px;
+}
+.minus {
+    background: rgba(0, 0, 0, 0) url("http://a.xnimg.cn/smallsite/images/symbol.png") no-repeat scroll 538px -30px;
+}
+.save-box {
+    margin-top: 20px;
+    padding-bottom: 60px;
+}
+.save-box .setup-submit {
+    background: #00b9bd none repeat scroll 0 0;
+    border: medium none;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    height: 38px;
+    line-height: 38px;
+    padding: 0;
+    width: 100px;
+}
+.save-box .save-form-tip {
+    display: none;
+    line-height: 38px;
+    margin-left: 5px;
+}
+.mail {
+    height: 30px;
+    line-height: 30px;
+    width: 100px;
+}
+.my-site {
+    background-color: #e9efef;
+    border-bottom: 1px solid #fff;
+    height: 50px;
+    line-height: 50px;
+    width: 200px;
+}
+.my-site a {
+    color: #666;
+    display: block;
+    height: 50px;
+    padding: 0 10px;
+    text-decoration: none;
+    width: 180px;
+}
+.home-site {
+    float: left;
+    height: 100px;
+    text-align: left;
+    width: 700px;
+}
+.home-site a.user-photo {
+    display: block;
+    float: left;
+    height: 100px;
+    margin-right: 20px;
+    overflow: hidden;
+    width: 100px;
+}
+.home-site .user-messge {
+    float: left;
+    height: 28px;
+    margin-top: 20px;
+    width: 580px;
+}
+.user-name {
+    color: #333;
+    display: inline-block;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    height: 28px;
+    line-height: 28px;
+    max-width: 445px;
+    overflow: hidden;
+    padding: 0 20px 0 0;
+}
+.home-site a.renren-home {
+    background: #00b9bd none repeat scroll 0 0;
+    color: #fff;
+    display: block;
+    float: left;
+    font-weight: bold;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    text-decoration: none;
+    width: 112px;
+}
+.home-site p {
+    color: #888;
+    float: left;
+    font-size: 14px;
+    height: 28px;
+    line-height: 28px;
+    margin-top: 5px;
+    max-width: 450px;
+    overflow: hidden;
+}
+.more-setup {
+    color: #01a8ac;
+    display: inline-block;
+    float: left;
+    font-size: 14px;
+    height: 28px;
+    line-height: 28px;
+    margin: 5px 0 0 15px;
+    text-decoration: none;
+}
+.setup-submit {
+    background: #00b9bd none repeat scroll 0 0;
+    border: medium none;
+    color: #fff;
+    cursor: pointer;
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    height: 38px;
+    line-height: 38px;
+    padding: 0;
+    width: 100px;
+}
+.mycard-site label {
+    display: inline-block;
+    height: 26px;
+    line-height: 26px;
+    margin: 20px 0 3px;
+    width: 350px;
+}
+#mycard-name {
+    border: 1px solid #ccc;
+    color: #333;
+    font-family: "Microsoft Yahei",Tahoma,Arial,Helvetica,Simsun,STHeiti;
+    font-size: 18px;
+    height: 38px;
+    margin: 5px 0 0;
+    padding: 5px;
+    width: 315px;
+}
+#mycard-name option {
+    font-family: "Microsoft Yahei",Tahoma,Arial,Helvetica,Simsun,STHeiti;
+    font-size: 18px;
+    height: 26px;
+    padding: 5px;
+}

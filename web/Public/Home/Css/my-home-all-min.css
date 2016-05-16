@@ -1,0 +1,20 @@
+﻿
+/*my-home ---------------------------------------------------------------------------*/
+.my-site {width:200px; height:50px; line-height:50px; background-color:#e9efef; border-bottom:1px solid #fff;}
+.my-site a {display:block; width:180px; height:50px; padding:0 10px; color:#666; text-decoration:none;}
+.home-site {height:100px; width:700px; text-align:left; float:left;}
+.home-site a.user-photo {float:left; display:block; width:100px; height:100px; margin-right:20px;overflow:hidden;}
+.home-site .user-messge {float:left; width:580px;  height:28px; margin-top:20px;}
+.user-name {float:left; display:inline-block; max-width:445px; _width:430px; height:28px; padding:0 20px 0 0; line-height:28px; overflow:hidden; font-size:24px; font-weight:bold; color:#333;}
+.home-site a.renren-home {float:left; display:block;width:112px; height:28px; line-height:28px; text-decoration:none; background:#00b9bd; text-align:center; color:#fff; font-weight:bold; }
+.home-site p {float:left; max-width:450px; height:28px; margin-top:5px; line-height:28px; overflow:hidden; font-size:14px; color:#888;}
+.more-setup {float:left; height:28px; margin:5px 0 0 15px; display:inline-block; line-height:28px; color:#01a8ac; text-decoration:none; font-size:14px}
+
+.attention-site {width:100%; overflow:hidden;}
+.attention-site h4 {width:180px; height:23px; padding:10px; margin-top:20px; line-height:23px; font-size:14px; font-weight:normal; background:#e9efef; color:#aaa;}
+.attention-site ul {width:200px;}
+.attention-site li {float:left; width:49px; height:50px; margin:0 1px 1px 0;}
+.attention-site img {width:49px; height:50px; overflow:hidden;}
+.attention-site a {display:block;}
+
+
